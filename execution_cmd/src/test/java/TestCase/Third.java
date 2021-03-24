@@ -7,7 +7,7 @@ public class Third {
 	@Test
 	public void first()
 	{
-		System.out.println("Third Test Execution");
+		System.out.println("3rd Test Execution");
 	}
 
 }
